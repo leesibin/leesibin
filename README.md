@@ -21,7 +21,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=Mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/socket.io-47A248?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+- A.I/M.L :
+  <img src="https://img.shields.io/badge/Tensorflow.js-47A248?style=flat&logo=Tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
 - version Control :
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
