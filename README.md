@@ -29,7 +29,7 @@
 - version Control :
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
-- Communication :
+- UX/UI :
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
 
