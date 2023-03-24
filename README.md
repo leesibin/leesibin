@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sibin Github!&fontSize=90" />
-
 # 😄HI! Welcome to my world!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesibin&show_icons=true)
