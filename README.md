@@ -7,7 +7,7 @@
 # 🙋‍♂️ About me
 
 - name : Lee si bin
-- Changwon City
+- adress : Changwon City
 - email : tlqls123@gmail.com
 
 # 🪓 technology
