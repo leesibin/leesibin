@@ -24,7 +24,7 @@
 - A.I/M.L :
   <img src="https://img.shields.io/badge/Tensorflow.js-47A248?style=flat&logo=Tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
-- version Control :
+- version control :
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 - UX/UI :
