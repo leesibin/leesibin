@@ -1,4 +1,4 @@
-# 😄HI! Welcome to my world!
+# 😄Hi! Welcome to my world!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesibin&show_icons=true)
 
@@ -10,7 +10,7 @@
 - adress : Changwon City
 - email : tlqls123@gmail.com
 
-# 🪓 technology
+# 🪓 Technology
 
 - Frontend :
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
