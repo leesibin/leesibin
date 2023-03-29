@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=Mongodb&logoColor=white" />
 - A.I/M.L :
-  <img src="https://img.shields.io/badge/Tensorflow.js-47A248?style=flat&logo=Tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tensorflow.js-FF6F00?style=flat&logo=Tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
 - version control :
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
