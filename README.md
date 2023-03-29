@@ -15,7 +15,7 @@
 - Frontend :
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-바탕색?style=flat&logo=javaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue3.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 - Backend :
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
